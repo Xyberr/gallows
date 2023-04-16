@@ -1,0 +1,3 @@
+﻿  gallows.cpp
+C:\Users\maksz\source\repos\gallows\gallows.cpp(56,31): warning C4018: <: несоответствие типов со знаком и без знака
+  gallows.vcxproj -> C:\Users\maksz\source\repos\gallows\Debug\gallows.exe
